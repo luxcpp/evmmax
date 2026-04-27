@@ -1,3 +1,7 @@
+> This is a luxfi-maintained fork of [ethereum/evmone](https://github.com/ethereum/evmone); see [LUXFI-FORK.md](./LUXFI-FORK.md) for sync policy.
+
+---
+
 # evmone
 
 [![ethereum badge]][ethereum]
