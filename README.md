@@ -1,4 +1,12 @@
-> This is a luxfi-maintained fork of [ethereum/evmone](https://github.com/ethereum/evmone); see [LUXFI-FORK.md](./LUXFI-FORK.md) for sync policy.
+## Lux Fork
+
+This is a Lux Industries fork of the canonical upstream:
+- **Upstream**: https://github.com/ethereum/evmone
+- **Pinned commit**: `35b7e1ee`
+- **Pinned tag**: `v0.21.0`
+- **License**: Apache-2.0 (preserved from upstream — see `LICENSE`, modifications log in `NOTICE`)
+- **Lux extensions**: NONE (verbatim parity with upstream).
+- **Tag policy**: track upstream semver verbatim. Divergence (if ever required) signaled by next-minor bump, NOT prerelease suffixes.
 
 ---
 
